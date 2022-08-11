@@ -1,6 +1,8 @@
 # Challenge_3
 
 This project randomly generates a password for the user using symbols, numbers, lower case letters, and upper case letters. The password can be 8-128 characters long. It allows the user to choose what kind of characters they want to include in their password, and allows them to generate multiple different, and unique passwords.
+
+Deployed Application: https://nolshark.github.io/Challenge_3/
  
  ![image](https://user-images.githubusercontent.com/108495035/184222783-2b8a3e46-50f4-4c7a-bddf-c9682a0f17a2.png)
 
